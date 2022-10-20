@@ -1,10 +1,10 @@
 # Split
 
-Split is a single page, centrally-divided layout for a professional online presense with a big image or video left with alongside content. It is a port of [Split](//onepagelove.com/split) by [One Page Love](//onepagelove.com).
+Split is a single page, centrally-divided layout for a professional online presense with a big image or video left with alongside content. It is a port of [Split](//onepagelove.com/split) by [One Page Love](//onepagelove.com), Similar in appearance to [about.me](https://about.me/) pages.
 
 This Hugo theme features an image or video visual section as well as a content section for your name, tagline, bio, and links.
 
-![Hugo Split Theme screenshot](https://raw.githubusercontent.com/escalate/hugo-split-theme/master/images/screenshot.png)
+![Hugo Split Theme screenshot](/images/screenshot.png)
 
 
 ## Installation
@@ -24,7 +24,7 @@ After installing the Split theme successfully it requires a just a few more step
 
 ### The config file
 
-Take a look inside the [`exampleSite`](//github.com/escalate/hugo-split-theme/tree/master/exampleSite) folder of this theme. You'll find a file called [`config.toml`](//github.com/escalate/hugo-split-theme/blob/master/exampleSite/config.toml). To use it, copy the [`config.toml`](//github.com/escalate/hugo-split-theme/blob/master/exampleSite/config.toml) in the root folder of your Hugo site. Feel free to customize this theme as you like.
+Take a look inside the [`exampleSite`](/exampleSite/) folder of this theme. You'll find a file called [`config.toml`](/exampleSite/config.toml). To use it, copy the [`config.toml`](/exampleSite/config.toml) in the root folder of your Hugo site. Feel free to customize this theme as you like.
 
 
 ### Add content
@@ -126,7 +126,7 @@ Put custom css styles in static/css/style.css and enable this css in the config:
 
 ##### Additional settings
 
-Set `mute` to `true` if you want the video to play muted and `false` if you want the sound. The video is coded to autoplay and loop. If you want to change that the code can be found in [`layouts/partials/video.html`](//github.com/escalate/hugo-split-theme/tree/master/layouts/partials/video.html).
+Set `mute` to `true` if you want the video to play muted and `false` if you want the sound. The video is coded to autoplay and loop. If you want to change that the code can be found in [`layouts/partials/video.html`](/layouts/partials/video.html).
 
 
 ### Add links
@@ -170,7 +170,7 @@ twitterHandle = "onepagelove"
 
 
 ### Add favicon
-Replace [`static/favicon.ico`](//github.com/escalate/hugo-split-theme/tree/master/static/favicon.ico) with your favicon. If you don't want just delete `favicon.ico` and the line below.
+Replace [`static/favicon.ico`](/static/favicon.ico) with your favicon. If you don't want just delete `favicon.ico` and the line below.
 
 ```toml
 favicon = "favicon.ico"
@@ -210,7 +210,7 @@ Did you found a bug or got an idea for a new feature? Feel free to use the [issu
 
 ## License
 
-The original template is released under the [Creative Commons Attribution 3.0 License](//github.com/escalate/hugo-split-theme/blob/master/LICENSE.md). Please keep the original attribution link when using for your own project. If you'd like to use the template without the attribution, you can check out the license option via the template [author's website](//onepagelove.com/split).
+The original template is released under the [Creative Commons Attribution 3.0 License](/LICENSE.md). Please keep the original attribution link when using for your own project. If you'd like to use the template without the attribution, you can check out the license option via the template [author's website](//onepagelove.com/split).
 
 
 ## Annotations
